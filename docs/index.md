@@ -29,3 +29,4 @@ Emotion is often the missing layer in AI systems. By planting this seed, we begi
 
 ✨ This is just the beginning. Contributions, ideas, and reflections are welcome.
 
+fix: add layout to index.md for GitHub Pages
